@@ -1,0 +1,2 @@
+# water-level
+This is a system designed to notify me when water in a trough needs to be refilled. I needed the system to detect when water is low and function outside. I decided to implement this by using an Arduino Nano 33 IoT to send a notification of when the trough is low. I designed this project with solar power in mind, as it would need to be deployed outside next to the trough. A waterproof housing was used to protect electrical components. I also designed a custom PCB to be used for this system.
